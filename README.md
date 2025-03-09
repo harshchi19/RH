@@ -10,12 +10,12 @@ Cloud Computing Intern, WEBXELA (Present)
 - Developed CI/CD pipelines for automated deployments  
 - Implemented serverless architectures for scalability  
 
-Marketing Head, NSDC, SVKM’s DJSCE (Present)  
+Marketing Head, NSDC, SVKM’s DJSCE (June)  
 - Led marketing strategies, increasing engagement by 40%  
 - Organized AI/ML workshops and collaborated with Columbia University  
 - Managed social media, branding, and content marketing  
 
-AI Mentor, Infomatrix (Present)  
+Cloud Computing Intern, WEBXELA (Sep)  
 - Guided students in AI/ML projects and hackathons  
 - Conducted workshops on neural networks, NLP, and computer vision  
 - Assisted in model fine-tuning and performance optimization  
