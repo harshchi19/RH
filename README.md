@@ -5,11 +5,15 @@ Relevant coursework: Machine Learning, Deep Learning, Cloud Computing
 
  Work Experience 
 Cloud Computing Intern**, WEBXELA (Present) 
+
 Managed and optimized cloud infrastructure (Azure, AWS, GCP)  
+
 Automated deployment processes for scalability  
 
 Marketing Head, NSDC, SVKM’s DJSCE (Present) 
+
 Led marketing initiatives and strategic outreach  
+
 Organized events in collaboration with Columbia University’s Northeast Big Data Innovation Hub  
 
 AI Mentor, DJSInfomatrix (Present)  
